@@ -1,5 +1,5 @@
 {
-  "name": "travel",
+  "name": "travel-site",
   "version": "1.0.0",
   "scripts": {
     "dev": "webpack serve",
