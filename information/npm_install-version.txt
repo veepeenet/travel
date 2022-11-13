@@ -1,0 +1,14 @@
+
+
+https://stackabuse.com/npm-install-specific-version-of-a-package/
+
+
+
+
+to install a specific version of the package:
+	npm install [package]@[version]
+
+example: (install express version 4.16.1)
+	$ npm install express@4.16.1
+
+
