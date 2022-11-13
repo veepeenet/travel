@@ -1,0 +1,49 @@
+
+
+
+
+
+
+use this:
+first:
+https://jonsuh.com/blog/bash-command-line-shortcuts/
+then:
+https://jonsuh.com/blog/git-command-line-shortcuts/
+
+
+nano ~/.bash_profile
+
+
+#----------
+Aliases
+#----------
+alias gs='git status'
+alias ga='git add --all'
+alias gc='git commit --message'
+alias gp='git push origin master'
+alias c='clear'
+alias d='npm run dev'
+
+
+with  <name>
+
+alias gb='git branch' <name>
+alias gco='git checkout' <name>
+alias gbd='git branch -d' <name>
+alias gm='git merge' <name>
+alias gpusho='git push origin' <name>
+alias gpullo ='git pull origin' <name>
+
+
+
+https://gist.github.com/tuxfight3r/60051ac67c5f0445efee
+
+
+
+
+
+
+
+
+
+
